@@ -1,5 +1,5 @@
 # Human-Language-Technology
-This repository corresponds to the course Human Language Technology taught by --
+This repository corresponds to the course Human Language Technology taught by **Ankit tewari**
 
 
 **Human Language Technology** is a key technology in *web search, information retrieval, social network analysis, machine translation, speech recognition*, and many other applications. The course introduces students to methods for natural language processing, natural language understanding, and information retrieval. 
